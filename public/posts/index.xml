@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Aru Vargas</title>
+    <link>http://100.80.34.31:1313/posts/</link>
+    <description>Recent content in Posts on Aru Vargas</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Aug 2025 18:37:15 -0400</lastBuildDate>
+    <atom:link href="http://100.80.34.31:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome!</title>
+      <link>http://100.80.34.31:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 25 Aug 2025 18:37:15 -0400</pubDate>
+      <guid>http://100.80.34.31:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hey!&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m Aru Vargas. Thank you for stopping by my little corner of the internet :)&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been going back and forth on what I want this place to be.&#xA;For a while I wanted it to be sort of &lt;a href=&#34;https://en.wikipedia.org/wiki/Project_Xanadu&#34;&gt;Project Xanadu&lt;/a&gt; inspired.&#xA;I still kind of want that, but the more I planned it out, the more I realized it was not going to be the fast, quick, static site I wanted my blog to be.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
