@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://100.80.34.31:1313/</loc>
+    <loc>https://aruvargas.com/</loc>
     <lastmod>2025-08-25T18:37:15-04:00</lastmod>
   </url><url>
-    <loc>http://100.80.34.31:1313/test/</loc>
+    <loc>https://aruvargas.com/test/</loc>
   </url><url>
-    <loc>http://100.80.34.31:1313/posts/</loc>
+    <loc>https://aruvargas.com/posts/</loc>
     <lastmod>2025-08-25T18:37:15-04:00</lastmod>
   </url><url>
-    <loc>http://100.80.34.31:1313/posts/my-first-post/</loc>
+    <loc>https://aruvargas.com/posts/my-first-post/</loc>
     <lastmod>2025-08-25T18:37:15-04:00</lastmod>
   </url>
 </urlset>

@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: http://100.80.34.31:1313/sitemap.xml
+Sitemap: https://aruvargas.com/sitemap.xml
